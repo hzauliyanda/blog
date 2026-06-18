@@ -1,0 +1,52 @@
+backend:
+  name: github
+  repo: hzauliyanda/blog
+  branch: main
+  # 下面这行填你部署的 OAuth 中转 Worker 地址（见 CMS-SETUP.md 指南）
+  base_url: https://REPLACE-WITH-YOUR-OAUTH-WORKER.workers.dev
+
+# 后台界面语言
+locale: zh
+
+# 上传的图片放这里，文章中以 /images/xxx 引用
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    folder: src/content/posts
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{fields.slug}}"
+    summary: "{{title}} — {{pubDatetime}}"
+    sortable_fields: [pubDatetime, title]
+    fields:
+      - { name: title, label: 标题, widget: string }
+      - { name: slug, label: 网址别名(英文/拼音,决定文章链接), widget: string }
+      - { name: pubDatetime, label: 发布时间, widget: datetime }
+      - { name: description, label: 摘要, widget: text }
+      - { name: author, label: 作者, widget: string, default: 老达子 }
+      - {
+          name: tags,
+          label: 标签,
+          widget: list,
+          default: [历史],
+        }
+      - { name: featured, label: 首页精选, widget: boolean, default: false }
+      - { name: draft, label: 草稿(勾选则不公开), widget: boolean, default: false }
+      - { name: body, label: 正文, widget: markdown }
+
+  - name: pages
+    label: 页面
+    label_singular: 页面
+    folder: src/content/pages
+    create: false
+    extension: md
+    format: frontmatter
+    fields:
+      - { name: title, label: 标题, widget: string }
+      - { name: description, label: 描述, widget: text, required: false }
+      - { name: body, label: 正文, widget: markdown }
