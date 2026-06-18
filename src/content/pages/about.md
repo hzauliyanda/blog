@@ -1,37 +1,16 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于"
+description: "关于老达子和这个博客。"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+您好，我是老达子。
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+这个博客只做一件事：**讲那些被正史埋没、却又精彩得不像话的冷门人物和故事。**
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+历史这本账，记的从来不只是功劳的大小，还记官职、记体面、记你够不够格被写进那一栏。于是总有些人，明明做了惊天动地的事，名字却在史册里沉默了千百年。我想把他们一个个翻出来，用大白话讲清楚——文言原文照引，翻译也照给，您看得明白，也信得过。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+文章里凡是引用史料，我都会标明出处（《资治通鉴》《旧唐书》这些），不编、不夸、不把话说死。
 
-## Features
+如果您也喜欢这种「祛魅又反转」的讲史，欢迎常来坐坐。
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+> 文｜老达子

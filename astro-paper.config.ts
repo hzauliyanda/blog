@@ -3,9 +3,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://blog.hzauliyanda.workers.dev/",
-    title: "Liyanda 的博客",
-    description: "记录技术、思考与生活的个人空间。",
-    author: "Liyanda",
+    title: "老达子",
+    description: "老达子讲史——专挑那些被正史埋没的冷门人物，做祛魅与反转。",
+    author: "老达子",
     profile: "https://blog.hzauliyanda.workers.dev/",
     ogImage: "default-og.jpg",
     lang: "zh",
