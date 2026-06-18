@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://liyanda-blog.pages.dev/",
+    url: "https://blog.hzauliyanda.workers.dev/",
     title: "Liyanda 的博客",
     description: "记录技术、思考与生活的个人空间。",
     author: "Liyanda",
-    profile: "https://liyanda-blog.pages.dev/",
+    profile: "https://blog.hzauliyanda.workers.dev/",
     ogImage: "default-og.jpg",
     lang: "zh",
     timezone: "Asia/Shanghai",
