@@ -1,0 +1,10 @@
+{
+  // 把本博客作为「纯静态资源」部署到 Cloudflare，
+  // 不使用 @astrojs/cloudflare 适配器、不进入 Worker 运行时预渲染。
+  // 构建产物在 ./dist（由 `pnpm run build` 生成）。
+  "name": "blog",
+  "compatibility_date": "2026-06-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
