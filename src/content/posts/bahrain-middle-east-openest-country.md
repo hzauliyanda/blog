@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-23T14:07:41.182Z
-title: 前言
+pubDatetime: 2026-06-23T14:08:05.133Z
+title: 只有县城大小的巴林，却是中东最开放国家，有何特殊？
 slug: bahrain-middle-east-openest-country
 featured: false
 draft: false
