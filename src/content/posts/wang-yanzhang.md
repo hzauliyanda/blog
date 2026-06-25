@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-25T13:21:14.190Z
+pubDatetime: 2026-06-25T13:25:42.908Z
 title: 皇帝问他打仗的秘诀，这个大老粗只回了八个字
 slug: wang-yanzhang
 featured: false
@@ -8,7 +8,7 @@ draft: false
 tags:
   - 历史
   - 五代十国
-description: 五代名将王彦章，一个不识字的大老粗，用八个字道尽了一生的打仗秘诀。
+description: 五代名将王彦章，目不识丁却骁勇善战，皇帝问他打仗的秘诀，这个大老粗只回了八个字。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
