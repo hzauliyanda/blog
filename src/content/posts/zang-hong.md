@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-24T13:59:14.646Z
+pubDatetime: 2026-06-25T13:21:05.395Z
 title: 为了给一个朋友报仇，他敢跟天下最强的诸侯翻脸到死
 slug: zang-hong
 featured: false
@@ -8,7 +8,7 @@ draft: false
 tags:
   - 历史
   - 三国
-description: 臧洪登坛执血、慷慨陈辞，为一个朋友，他敢与天下最强的诸侯翻脸到死。
+description: 臧洪——三国乱世里为友复仇、宁死不屈的硬骨头，敢与最强诸侯袁绍翻脸到底。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
