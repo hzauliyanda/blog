@@ -1,14 +1,14 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-25T13:20:47.856Z
-title: 赵匡胤小舅子：四年吃掉100多女子，赵匡胤袒护，赵光义怒斩
+pubDatetime: 2026-06-25T13:25:06.202Z
+title: 前言
 slug: wang-jixun
 featured: false
 draft: false
 tags:
   - 历史
   - 宋朝
-description: 一个被皇帝姐夫一再袒护的食人恶魔，最终在赵光义手里走到尽头。
+description: 北宋彰国军留后、赵匡胤的小舅子王继勋，四年间残害百余名婢女，赵匡胤一再袒护，最终被赵光义下令斩首。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
