@@ -1,14 +1,15 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-25T13:20:56.485Z
+pubDatetime: 2026-06-25T13:25:27.028Z
 title: 麦克阿瑟在日本的七年有多爽？霸占昭和女神，天皇乖巧如儿子
 slug: macarthur-japan
 featured: false
 draft: false
 tags:
   - 历史
-  - 近代史
-description: 从太上皇到昭和女神，麦克阿瑟在日本七年是怎样一场宏大的占领游戏。
+  - 二战
+  - 日本
+description: 战后七年，麦克阿瑟以盟军最高司令的身份君临日本，让昭和天皇俯首听命，重塑了整个国家的精神版图。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
