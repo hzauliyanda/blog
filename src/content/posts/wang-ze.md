@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-28T06:35:00.561Z
-title: 前言
+pubDatetime: 2026-06-28T06:35:13.768Z
+title: 一个看城门的小兵，趁着过年称了帝，国号只活了六十六天
 slug: wang-ze
 featured: false
 draft: false
