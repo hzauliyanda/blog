@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-29T00:12:19.249Z
-title: 王允杀蔡邕那天，中国史上最博学的人，求的是让我写完汉史再死
+pubDatetime: 2026-06-29T00:13:44.215Z
+title: 王允杀蔡邕那天，中国史上最博学的人，求的是“让我写完汉史再死”
 slug: cai-yong
 featured: false
 draft: false
