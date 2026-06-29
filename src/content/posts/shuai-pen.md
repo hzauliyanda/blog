@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-29T00:12:24.055Z
-title: 传统葬礼上，起棺前为什么要进行摔盆？后辈需要知道背后深意
+pubDatetime: 2026-06-29T00:13:47.603Z
+title: 传统葬礼上，起棺前为什么要进行“摔盆”？后辈需要知道背后深意
 slug: shuai-pen
 featured: false
 draft: false
