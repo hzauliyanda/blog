@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-30T06:29:12.659Z
-title: 前言
+pubDatetime: 2026-06-30T06:29:38.637Z
+title: 穿越回古代，你大概率不是地主，而是这种人
 slug: ancient-hereditary-servants
 featured: false
 draft: false
