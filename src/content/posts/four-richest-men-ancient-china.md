@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-30T06:29:16.016Z
-title: 前言
+pubDatetime: 2026-06-30T06:29:41.988Z
+title: 古代四大富可敌国的人，下场没一个好的，和珅、邓通、沈万三、石崇
 slug: four-richest-men-ancient-china
 featured: false
 draft: false
