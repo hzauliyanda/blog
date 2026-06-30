@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-30T06:29:05.647Z
-title: 前言
+pubDatetime: 2026-06-30T06:29:32.002Z
+title: 一个沦落到去种瓜的亡国侯爷，太太太通透，几句话就救下了大汉第一功臣的命
 slug: dongling-marquis-shao-ping
 featured: false
 draft: false
