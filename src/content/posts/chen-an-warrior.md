@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-06-30T06:29:09.250Z
-title: 前言
+pubDatetime: 2026-06-30T06:29:35.342Z
+title: 比名将还生猛，比败将还冤
 slug: chen-an-warrior
 featured: false
 draft: false
