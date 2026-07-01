@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-01T11:42:04.796Z
+pubDatetime: 2026-07-01T11:45:47.727Z
 title: 成吉思汗后宫有多狠？敌人老婆扎堆进帐，60岁还生娃，看完服了！
 slug: genghis-khan-harem
 featured: false
@@ -9,7 +9,7 @@ tags:
   - 历史
   - 元朝
   - 蒙古
-description: 身负血海深仇的女人，凭什么能在铁血征服者的后宫安分守己，还帮他撑起半个帝国的家业？
+description: 身负血海深仇的女人，凭什么能在铁血征服者的后宫安分守己，还帮他撑起半个帝国？成吉思汗后宫的极狠生存学。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
