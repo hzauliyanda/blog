@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-01T11:42:12.981Z
+pubDatetime: 2026-07-01T11:45:58.002Z
 title: 鼎盛时期的南斯拉夫有多牛？连苏联和美国都忌惮三分！
 slug: yugoslavia-tito
 featured: false
@@ -9,7 +9,7 @@ tags:
   - 历史
   - 南斯拉夫
   - 冷战
-description: 铁托凭什么让斯大林的继任者赫鲁晓夫亲自飞到贝尔格莱德，低头赔不是？
+description: 斯大林扬言要动动小指头就让铁托完蛋，结果几年后是赫鲁晓夫飞到贝尔格莱德赔不是——鼎盛期的南斯拉夫到底有多硬。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
