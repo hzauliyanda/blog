@@ -1,14 +1,14 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-01T11:41:56.834Z
-title: 一个瘦得连马都骑不上去的病秧子，坐着小车把北魏大军打到全军覆没
+pubDatetime: 2026-07-01T11:45:26.667Z
+title: 前言
 slug: wei-rui
 featured: false
 draft: false
 tags:
   - 历史
   - 南北朝
-description: 一个连马都骑不了的病秧子，凭什么成了北魏军闻风丧胆的猛虎？南朝名将韦睿的故事。
+description: 一个瘦得连马都骑不上去的病秧子，坐着小车指挥，却把北魏大军打到全军覆没——南朝梁名将韦睿。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
