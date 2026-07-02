@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-02T13:51:00.118Z
-title: 前言
+pubDatetime: 2026-07-02T13:51:18.708Z
+title: 李自成兵败后神秘失踪：他根本没死，是带着宝藏隐居成了富家翁？
 slug: li-zicheng-legend
 featured: false
 draft: false
