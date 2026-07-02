@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-02T13:50:56.407Z
-title: 前言
+pubDatetime: 2026-07-02T13:51:15.219Z
+title: "你背了十几年的\"卧薪尝胆\"，可能是假的"
 slug: woxin-changdan-myth
 featured: false
 draft: false
