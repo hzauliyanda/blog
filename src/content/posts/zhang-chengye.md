@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-02T13:50:49.057Z
-title: 前言
+pubDatetime: 2026-07-02T13:51:11.752Z
+title: 一个太监，为主子守住了一座城，却被要当皇帝的主子逼得绝食而死
 slug: zhang-chengye
 featured: false
 draft: false
