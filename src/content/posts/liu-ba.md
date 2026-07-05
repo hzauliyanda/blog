@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-05T08:55:54.674Z
-title: 前言
+pubDatetime: 2026-07-05T08:56:11.856Z
+title: 三国最被低估的谋士刘巴：被刘备追了十几年、归蜀后却一直被冷用
 slug: liu-ba
 featured: false
 draft: false
