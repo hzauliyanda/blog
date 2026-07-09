@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-09T13:36:53.047Z
-title: 前言
+pubDatetime: 2026-07-09T13:38:41.924Z
+title: 亡国之君还能下岗再就业，靠关系当上新朝宰相得以善终
 slug: reemployed-fallen-minister
 featured: false
 draft: false
