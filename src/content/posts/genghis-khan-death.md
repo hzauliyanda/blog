@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-10T13:53:58.095Z
-title: 前言
+pubDatetime: 2026-07-10T13:54:09.368Z
+title: 27年成吉思汗死在西夏王妃帐中，护卫队遭灭口，百年后知帝王丑闻
 slug: genghis-khan-death
 featured: false
 draft: false
