@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-12T01:16:39.081Z
-title: 前言
+pubDatetime: 2026-07-12T01:17:03.237Z
+title: 金朝和清朝的女真族是同一祖先吗
 slug: jurchen-ancestry-jin-qing
 featured: false
 draft: false
