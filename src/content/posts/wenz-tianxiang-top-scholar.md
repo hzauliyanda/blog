@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-12T01:16:42.650Z
-title: 前言
+pubDatetime: 2026-07-12T01:17:06.882Z
+title: 为什么说文天祥，是中国五千年来状元里的天花板
 slug: wenz-tianxiang-top-scholar
 featured: false
 draft: false
