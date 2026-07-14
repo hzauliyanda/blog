@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-14T00:08:01.033Z
-title: 前言
+pubDatetime: 2026-07-14T00:08:31.552Z
+title: 古代驸马洞房前，为何先让宫女侍寝一晚？宫女又为什么会同意？
 slug: fuma-test-maid
 featured: false
 draft: false
