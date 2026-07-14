@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-14T00:08:21.549Z
-title: 前言
+pubDatetime: 2026-07-14T00:08:47.758Z
+title: 日本扶植伪满洲国，为什么不启用大清国号？
 slug: puppet-manchukuo
 featured: false
 draft: false
