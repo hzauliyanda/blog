@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-14T00:08:11.531Z
-title: 前言
+pubDatetime: 2026-07-14T00:08:40.302Z
+title: 宋朝一尼姑伺候皇帝洗澡，皇帝当晚将其临幸，后来生下一千古明君
 slug: song-nun-emperor
 featured: false
 draft: false
