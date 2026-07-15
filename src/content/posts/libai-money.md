@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-15T15:27:52.055Z
-title: 前言
+pubDatetime: 2026-07-15T15:28:04.763Z
+title: 李白一辈子没怎么工作过，一直游山玩水，他的钱是怎么来的呢
 slug: libai-money
 featured: false
 draft: false
