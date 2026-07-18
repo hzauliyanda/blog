@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-18T23:55:05.020Z
-title: 前言
+pubDatetime: 2026-07-18T23:55:27.614Z
+title: 周恩来亲迎此人骨灰，刘伯承伤心倒地，毛主席：刚想调他进中央啊
 slug: zhang-guohua-ashes
 featured: false
 draft: false
