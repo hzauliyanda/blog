@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-18T23:55:08.319Z
-title: 前言
+pubDatetime: 2026-07-18T23:55:31.013Z
+title: 投敌换了280万黄金，风光26年后回山东探亲，刚下飞机就被拷走
 slug: betrayal-gold-280w
 featured: false
 draft: false
@@ -9,7 +9,7 @@ tags:
   - 历史
   - 抗战
   - 汉奸
-description: 这让人想起古代文人毛宗岗在读历史时的那句辛辣评点。他提到那些因为利益而背叛的人，心里没有一天不在背叛之中。利益在哪里，他们的身体就在哪里。因为利益而投降的人，最终也必定会因为利益而遭遇毁灭。
+description: 这让人想起古代文人毛宗岗在读历史时的那句辛辣评点。他提到那些因为利益而背叛的人，心里没有一天不在背叛之中。利益在哪里，他们的身体就在哪里。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
