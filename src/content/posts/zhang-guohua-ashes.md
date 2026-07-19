@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-18T23:55:27.614Z
+pubDatetime: 2026-07-19T23:39:09.760Z
 title: 周恩来亲迎此人骨灰，刘伯承伤心倒地，毛主席：刚想调他进中央啊
 slug: zhang-guohua-ashes
 featured: false
@@ -9,7 +9,7 @@ tags:
   - 历史
   - 现代史
   - 张国华
-description: 到了1972年3月，当张国华的骨灰从成都运抵北京时，老帅刘伯承已经病得很重，双眼几乎完全失明。听到这个噩耗，老帅在家里坐立不安，老泪纵横。他反复念叨着这位爱将的名字，执意要求去机场送他最后一程。
+description: 到了1972年3月，当张国华的骨灰从成都运抵北京时，老帅刘伯承已经病得很重，双眼几乎完全失明。听到这个噩耗，老帅在家里坐立不安，老泪纵横。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
