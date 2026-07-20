@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-20T15:01:48.449Z
-title: 前言
+pubDatetime: 2026-07-20T15:02:02.855Z
+title: 蒙古国距中国最近的县城：用中国电，花人民币，还想喝咱的自来水
 slug: china-mongolia-border-town
 featured: false
 draft: false
