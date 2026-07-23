@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-23T01:39:31.863Z
-title: 前言
+pubDatetime: 2026-07-23T01:39:46.204Z
+title: 宋徽宗被囚金国9年生下14个孩子，为了活着，他的行为有多不耻
 slug: song-huizong-jin-captivity
 featured: false
 draft: false
