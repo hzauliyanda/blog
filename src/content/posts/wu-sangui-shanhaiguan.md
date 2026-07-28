@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-28T23:38:25.901Z
+pubDatetime: 2026-07-28T23:39:40.243Z
 title: 吴三桂在山海关投降清朝，为何他的手下将领无人反对，集体投降
 slug: wu-sangui-shanhaiguan
 featured: false
@@ -8,7 +8,7 @@ draft: false
 tags:
   - 历史
   - 明清
-description: 山海关一降，吴三桂麾下将领为何无人反对、集体归清？拆解辽西将门这个利益集团的算盘。
+description: 山海关一降，吴三桂麾下将领为何集体沉默——一支辽西将门利益集团的算盘。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
