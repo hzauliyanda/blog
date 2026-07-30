@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-07-30T03:24:31.673Z
+pubDatetime: 2026-07-30T14:53:13.222Z
 title: 民国5年7起连环杀戮，七位开国元勋惨死，一桩比一桩诡异
 slug: minguo-seven-murders
 featured: false
@@ -8,7 +8,7 @@ draft: false
 tags:
   - 历史
   - 民国
-description: 民国五年，七位开国元勋接连惨死，一桩比一桩诡异——这七起案子如何把一部写满人身自由条文的新法典逼成废纸。
+description: 民国五年，七位开国元勋接连惨死，一桩比一桩诡异。七起命案如何把一部刚颁布的新法典活活逼成一张废纸。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
