@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-02T13:11:45.612Z
-title: 前言
+pubDatetime: 2026-08-02T13:11:58.766Z
+title: 如果李世民真的去了洛阳，李渊让位给李建成，双方打内战谁会赢？
 slug: lishimin-luoyang-civil-war
 featured: false
 draft: false
