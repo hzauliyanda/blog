@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-09T23:57:19.619Z
-title: 前言
+pubDatetime: 2026-08-09T23:58:01.929Z
+title: 资治通鉴：一个妥协所以能达成，是因为双方都假装没看到那个长期后果
 slug: tang-costly-compromise
 featured: false
 draft: false
