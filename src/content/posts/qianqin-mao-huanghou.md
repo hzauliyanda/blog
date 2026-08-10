@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-10T14:31:07.046Z
-title: 她是史上唯一遭受裸刑的皇后，18岁嫁50岁皇上，死时只有21岁
+pubDatetime: 2026-08-10T14:31:30.548Z
+title: 她是史上唯一遭受“裸刑”的皇后，18岁嫁50岁皇上，死时只有21岁
 slug: qianqin-mao-huanghou
 featured: false
 draft: false
