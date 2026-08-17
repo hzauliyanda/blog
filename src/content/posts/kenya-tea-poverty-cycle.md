@@ -1,15 +1,14 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-16T06:29:10.620Z
+pubDatetime: 2026-08-17T02:29:47.518Z
 title: 非洲到底为什么穷？让种茶大国肯尼亚告诉你，什么叫恶性循环
 slug: kenya-tea-poverty-cycle
 featured: false
 draft: false
 tags:
   - 历史
-  - 经济
   - 非洲
-description: 肯尼亚是世界最大红茶出口国之一，但茶农却仍在贫困线上挣扎。本文深入探讨种茶大国为何陷入贫困循环。
+description: 肯尼亚茶叶卖遍全球，茶农却依旧困在贫困线上，钱到底去了哪里？
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
