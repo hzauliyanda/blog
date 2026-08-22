@@ -7,8 +7,7 @@ featured: false
 draft: false
 tags:
   - 历史
-  - 近代史
-  - 地下工作
+  - 民国
 description: 一对夫妻潜伏十五年、历经一千五百天酷刑，留下最后一封绝笔信。
 ---
 
