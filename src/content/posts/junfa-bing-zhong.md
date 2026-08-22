@@ -7,7 +7,6 @@ featured: false
 draft: false
 tags:
   - 历史
-  - 军阀
 description: 军阀头领不听朝廷号令，手下的兵为何依然死心效忠。
 ---
 
