@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-27T00:11:05.329Z
+pubDatetime: 2026-08-28T02:29:54.447Z
 title: 崇祯为何要将袁崇焕割上三千刀？叛国只是借口，真正罪名无法公开
 slug: yuan-chonghuan-lingchi
 featured: false
@@ -8,9 +8,7 @@ draft: false
 tags:
   - 历史
   - 明朝
-  - 崇祯
-  - 袁崇焕
-description: 割上三千刀的凌迟，罪名写的是叛国；真正让十七岁的崇祯动了杀心的，是一条没法摆上台面的罪。
+description: 凌迟三千刀的公开罪名是通敌叛国，但崇祯真正动刀的原因，史书不敢明写。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
