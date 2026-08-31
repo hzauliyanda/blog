@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-31T11:42:43.582Z
-title: 17岁周恩来的神仙作文：字字泣血，老师惊呼天才杰作
+pubDatetime: 2026-08-31T11:43:08.361Z
+title: 17岁周恩来的神仙作文：字字泣血，老师惊呼“天才杰作”
 slug: zhou-enlai-essay-17
 featured: false
 draft: false
