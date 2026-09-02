@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-09-02T14:36:36.932Z
-title: 前言
+pubDatetime: 2026-09-02T14:36:54.101Z
+title: 古代“最不详”的封号，2000年来只有4人获得，却谁受封谁惨死
 slug: wuan-jun-cursed-title
 featured: false
 draft: false
