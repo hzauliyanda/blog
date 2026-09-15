@@ -1,7 +1,7 @@
 ---
 author: 老达子
-pubDatetime: 2026-09-15T07:47:44.210Z
-title: 前言
+pubDatetime: 2026-09-15T07:47:54.494Z
+title: 广西龙州：清末法国人镜头里的龙州道台，妻妾成群，子孙满堂
 slug: longzhou-french-lens
 featured: false
 draft: false
