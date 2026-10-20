@@ -1,67 +1,91 @@
 ---
 author: 老达子
-pubDatetime: 2026-08-17T02:29:47.518Z
-title: 非洲到底为什么穷？让种茶大国肯尼亚告诉你，什么叫恶性循环
+pubDatetime: 2026-10-20T23:44:37.487Z
+title: 非洲到底为什么穷？让种茶大国肯尼亚告诉你，什么叫“恶性循环”
 slug: kenya-tea-poverty-cycle
 featured: false
 draft: false
 tags:
   - 历史
-  - 非洲
-description: 肯尼亚茶叶卖遍全球，茶农却依旧困在贫困线上，钱到底去了哪里？
+  - 世界史
+description: 肯尼亚是非洲最大产茶国，茶卖得火钱却留不住——一个关于恶性循环的真实样本。
 ---
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">文｜老达子</font>
 
-> 本文共约2900字，阅读时长大约6分钟
+> 本文共1836字，阅读时长大约4分钟
 
 # 前言
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">俗话说，捧着金饭碗讨饭吃。这话听着像骂人，放到有些地方，却是实情。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚有个名头，听着挺风光：世界最大红茶出口国之一，产茶量长期排在世界前列。你喝到的很多红茶，袋子上印着别的牌子，茶叶却多半是从肯尼亚运出去的。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚的高原上，茶树几乎一年到头都在出芽。它是世界上出口红茶最多的国家，运茶的货轮一艘接一艘离开蒙巴萨港。可茶农的日子并不宽裕，国家自己还背着一身重债。</font>
 
-**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">可奇怪的是，种茶的没赚到钱。这个国家大量茶农辛苦一年，仍在贫困线上下挣扎；国家的人均收入，也跟它茶叶大国的名头对不上号。茶叶明明卖得那么多、那么远，钱到底去哪儿了？</font>**
-![image.png](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/20260809224305491.png)
+**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">茶卖得这么好，钱为什么留不住？今天老达子就来跟大家聊聊肯尼亚的茶～</font>**
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">今天老达子就来跟大家聊聊，一个种茶大国为什么反而被茶拖住，掉进一个解不开的穷局～</font>
+![清晨薄雾中的东非高原茶园与采茶人](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/kenya-tea-1-tea-hills.png)
 
-# 茶树下的殖民遗产
+# 每公斤2.27美元
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚的茶树，今天被誉为绿金，本该是财富的象征。但它的种植起源和模式，却牢牢锁定了这个国家百年的发展轨迹，成为一个沉重的历史包袱。茶这种作物，刚开始并不是肯尼亚原生的。在19世纪末20世纪初，大英帝国在全球范围内扩张，寻找新的原材料产地和市场。英国人发现，肯尼亚的高地气候和肥沃土壤，非常适合种植茶叶，能满足他们本土庞大的市场需求。于是，为了宗主国的利益，茶叶被大规模地引入肯尼亚。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">2024年，肯尼亚出口茶叶5.945亿公斤，换回约1817亿肯尼亚先令，折下来每公斤平均2.27美元。前一年，这个均价是2.47美元。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">英国殖民者来到这里，头一件事就是大量圈占土地。那些原本属于当地部族的肥沃高地，被划成了巨大的种植园。当地居民被强制从自己的土地上迁移，成为了种植园里的廉价劳动力。他们没有土地，没有选择，只能在英国人的茶园里，从早到晚，为微薄的薪水劳作。这些种植园，并不是为了肯尼亚人民的福祉而生，而是为了支撑大英帝国的经济机器。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">2023年出口5.229亿公斤，2024年多卖了14%。量涨了，价跌了，按先令算，总收入从1805亿多只涨到1816亿多，几乎原地不动。多卖出去的那些茶，基本没多换回钱。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">殖民政府还推行单一作物经济，也就是说，鼓励肯尼亚大规模种植茶叶，而对其他作物的种植则不那么重视。这样做的好处是方便宗主国统一管理和采购，但坏处是肯尼亚的经济结构变得非常脆弱，过度依赖单一商品。像芬莱（James Finlays）这类英国殖民公司，从19世纪末起就已经在肯尼亚建立起巨大的种植园，控制了大量的土地和茶叶生产。而联合利华（Unilever）等跨国资本，则是在更晚些时候才深度介入东非的茶业供应链。这些公司以非常低的成本，获取了大量的茶叶，运回英国加工和销售，赚取了好几倍的利润。</font>
+**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">买家有谁？巴基斯坦一家拿走2.06亿公斤，占出口量的三分之一还多，付了约700亿先令。埃及8690万公斤，英国5744万公斤，阿联酋3050万公斤。</font>**
 
-**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">直到今天，这种殖民时期形成的土地所有权结构和生产模式依然存在。虽然肯尼亚已经独立，但土地资源依然高度集中。很多肯尼亚茶农，他们祖祖辈辈都在这片土地上，却只拥有非常小的一块地，甚至完全没有自己的土地，只能依附于大型茶厂或合作社生存。这等于从一开始就把肯尼亚的经济发展按在了低附加值的轨道上。这种结构性贫困，是肯尼亚茶产业看似繁荣，却难以让国民富裕起来的根本原因之一。</font>**
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这些买家一动，肯尼亚就得跟着晃。2024年，巴基斯坦修改了销售税政策，进口量少了2%。红海局势紧张，船要绕更远的路，运费跟着涨。这些事，没有一件是肯尼亚茶农说了算的。</font>
 
-# 国际茶市压秤人
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">更要紧的是这些茶出门时的模样。肯尼亚官员公开说过，约97%的茶叶是散装出口，只有3%经过拼配、包装、贴牌。茶叶局自己的统计口径略有不同，2024年增值茶出口2890万公斤，约占5%。口径不一样，结论是一样的：九成五以上的茶，是以原料的身份离开的。</font>
 
-**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚的茶农们，他们每天面朝黄土背朝天，用辛勤的汗水浇灌着一片片茶园，生产出世界级的优质茶叶。但更关键的是，他们对自己的产品几乎没有定价权。这些茶叶的命运，往往是在千里之外的国际交易所里被决定。在国际茶叶市场，肯尼亚更像是一个压秤人，只能被动接受价格，处于全球价值链的底端。</font>**
+# 茶苗落地的那年，地就不是他们的了
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">全球茶叶的定价机制非常复杂。在1956年以前，肯尼亚的茶叶主要通过伦敦拍卖会进行销售。而到了1960年代以后，蒙巴萨才逐渐建立起东非茶叶拍卖中心，并发展成为今天全球最重要的茶叶拍卖市场之一。如今，决定肯尼亚茶叶价格的，主要是蒙巴萨的拍卖市场，伦敦早已不是其主要的定价枢纽。国际上的大买家，也就是那些大型跨国茶叶品牌，它们凭借着巨大的市场份额和购买力，可以轻易地压低收购价。它们把市场波动的风险，非常巧妙地转嫁给了像肯尼亚这样的生产国和那里的茶农。当国际市场行情不好时，茶叶价格一跌再跌，茶农的收入就跟着大幅缩水。</font>
-![image.png](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/20260809224337815.png)
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚人种茶，并不是自古就有的事。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚的茶农，他们通常会把鲜叶卖给合作社，再由合作社进行加工和出口。但这些合作社，也同样受制于国际市场的价格波动，它们很难为茶农争取到稳定且高的收购价。这就形成了一个困境：茶农努力提高产量和品质，但最终的收益却被国际市场那只无形的手紧紧地攥住。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">1903年前后，英国人把茶苗种到了利穆鲁一带，刚开始只是试种。这时候，欧洲移民更看重咖啡。后来有一批人发现自己的地海拔太高，咖啡长不好，才转头种茶。大片的商业茶园，要到1924年才开始出现。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">更重要的是，肯尼亚出口的茶叶，大部分都是初级的毛茶。这意味着，茶叶的深加工、品牌包装和最终的分销环节，这些利润非常高的部分，大多是在进口国完成的。而这些进口国，既包括英国等发达国家，也有巴基斯坦、埃及、阿联酋等发展中国家。肯尼亚只拿到了最基础的原料钱，附加值非常低。此外，气候变化、病虫害这些自然因素，也常常影响到茶叶的产量和品质，进一步加剧了茶农收入的不稳定。</font>
+**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">这些地是怎么来的？1902年起，殖民当局接连颁布土地法令，把最肥沃、雨水最足的高地划给欧洲移民。世代住在那里的基库尤人、卡伦津人，被赶到北边贫瘠的保留地。1915年的土地法令把限制写得更死：非白人不能在高地拥有土地，保留地里被认为“多余”的部分，政府随时可以收走。1919年，南迪保留地就被拿走约44平方公里，分给了英国退伍军人。到三十年代末，所谓白人高地的边界定下来，面积约四万三千平方公里。</font>**
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这把肯尼亚的茶产业牢牢困在了不平等的贸易体系里，让它很难摆脱对国际市场的依附，从而实现真正的经济独立和繁荣。这种历史的惯性，让肯尼亚即使已经独立好几十年，仍然只能守着最基础的原料出口，利润大头一直留不下来。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">茶园最集中的凯里乔一带，当地的基普西吉斯人至今主张，自己的土地是被殖民当局强行划走的，失地之后，成了庄园里的雇工。这些主张已经递到了法院和联合国，眼下还没有裁决，细节不能替他们下结论。但有一件事是清楚的：整个殖民时期，非洲人在茶这件事上的位置，主要是采茶工。</font>
 
-# 从茶园到餐桌的雁过拔毛
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">种茶，要等到1954年。那一年，茅茅起义已经闹起来，殖民当局才起草了《斯温纳顿计划》，头一次允许非洲农民种经济作物。1957年，头一座小农茶厂在涅里郡的拉加蒂建成。六年后，肯尼亚独立。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">即使有那么一丝微薄的利润，好不容易从国际市场流回到肯尼亚国内，它也很有可能在从茶园到餐桌的漫长链条中被层层截留，甚至被腐败侵蚀。最终真正能到达普通茶农手中的，更是所剩无几。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">也就是说，独立的时候，这个国家的茶园已经长了半个世纪，而本国农民手里的茶地，才刚刚起步。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">在肯尼亚国内，茶叶的销售和出口链条非常长。这里面有很多级中间商、经纪人，他们扮演着连接茶农和市场的角色。但与此同时，每一个环节都可能产生额外的成本，甚至出现寻租空间。比如，茶农把鲜叶卖给合作社，合作社进行初加工后再卖给出口商，出口商再卖给国际买家。这个过程中，合作社的管理成本、中间商的利润，以及一些不透明的费用，都会把原本就不多的收益进一步摊薄。</font>
+# 茶在蒙巴萨过秤，价钱不在肯尼亚定
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">今天的肯尼亚茶，大约六成出自小农之手。靠肯尼亚茶叶发展局收茶青、送茶厂的小农，有六十多万户。</font>
+![image.png](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/20261018112650967.png)
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">政府的监管不足，或者在茶产业政策上的失误，也可能是导致资源分配不公的原因。一些本来为了扶持基层茶农的优惠政策，可能因为各种原因，并没有真正惠及到他们。相反，一些权贵或与政府关系密切的集团，反而可能从中渔利。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这些茶青做成茶，大部分送到蒙巴萨拍卖。联合国粮农组织的一份报告写过一个数：蒙巴萨拍卖会上，三分之二的茶被六家公司买走；全球喝掉的茶，约85%掌握在七家公司手里。这份报告的数据不算新，但格局这些年没有大变。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">基础设施的薄弱也是一个大问题。肯尼亚很多茶园都地处偏远山区，那里的道路崎岖，电力供应不稳定。这意味着茶叶从采摘下来到运送到加工厂，再到港口出口，运输成本非常高，而且容易造成损耗。这直接削弱了肯尼亚茶叶在国际市场上的竞争力。如果交通顺畅，电力充足，茶叶的加工成本会低很多，茶农也能获得更多利润。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">买家拿到茶，装船运回自己的工厂，拼配、包装、贴上自己的牌子，再摆上超市货架。同一份报告说，拼配和包装这两步，最多可占零售价的八成。</font>
 
-**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">更让人生气的是，腐败问题也在不断吞噬利润。无论是地方层面的灰色收入，还是高层决策中的利益输送，都可能进一步稀释整个茶产业的整体收益。有人会利用信息不对称，或者手中的权力，从整个链条中雁过拔毛，把本该属于茶农的血汗钱塞进自己的腰包。茶农们常常对合作社的管理模式、中间商的加价行为感到不满，但又无可奈何。茶农和真正的财富之间，被这套链条彻底隔开了，让他们即使再努力，也难以摆脱贫困的宿命。</font>**
-![image.png](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/20260809224419259.png)
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">所以茶农的位置是这样的：茶青按重量算钱，茶叶按重量卖，价钱跟着国际行情和买家的出价走。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">看看眼下的年终奖金。2025到2026年度，几家茶厂宣布的奖金普遍往下掉。鲁库里里茶厂每公斤青叶补发50先令，上一年是57.5先令。全年送到茶厂的青叶，从11.44亿公斤降到10.95亿公斤。业内人士还指出，出口茶要缴0.8%的茶税，茶农希望取消。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">钱少了，量也少了。</font>
+
+![黄昏港口岸边的茶包与远去的货轮](https://raw.githubusercontent.com/hzauliyanda/picgo-images/main/img/kenya-tea-2-port.png)
+
+# 想自己做成品，为什么这么难
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">不是没人想过。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚政府这些年一直在喊增值，包装材料的进口税和消费税免了，在本地买茶、本地包装的，增值税税率为零。可是到2024年，增值茶也只有5%上下。</font>
+
+**<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">为什么推不动？茶叶局和农民自己，大概说不出一个单一的原因，但有几件事摆在一起，看得出一个圈。</font>**
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">做成品要机器，要品牌，要渠道，还要有人愿意先垫钱。小农卖茶青，收入薄，攒不下多少本钱。国家想帮忙，手里也紧：2025年12月，肯尼亚财政部的常务秘书说，税务局收上来的钱，48.5%要用在还债和发养老金这类法定支出上。联合国贸发会议估算，2024年光是利息，就占去财政收入的29.3%。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这两个数字，不能直接说成“还债挤掉了茶业投资”，那是推断，不是哪份报告的结论。但钱先付了利息，再去修路、通电、建仓库、补贴工厂，余下的就不多了。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">没有成品能力，就只能继续卖原料。卖原料，价钱就继续由买家定。价钱低，农民收入薄，国家税基也窄，国家借钱的需求就更大。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">圈就这样绕回了起点。</font>
 
 # 老达子说
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚的茶农不懒，茶叶也不差，钱却到不了他们手里，坎一共有三道。最底层那道，是殖民时代留下的：英国人把最好的地圈成茶园，让肯尼亚只能种茶、只卖毛茶，这套结构独立几十年了也没真正翻过来。再往上，定价权不在自己手里：茶卖多少钱，蒙巴萨的拍卖场说了算，大买家一压价，茶农只能认。还有一道在国内：茶叶从枝头到港口，中间商、管理费、腐败，一层层把利润削走，等到了茶农手里，已经所剩无几。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">肯尼亚不是不会种茶，它是世界上出口红茶最多的国家，茶种得比谁都好。我也不想用一杯茶去概括整个非洲，非洲五十几个国家，各有各的处境。肯尼亚的茶，只能说明其中的一种。</font>
 
-<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">所以光喊让茶农多种点、再努力点，没用，路是堵死的。真要破局，得动那些最硬的地方——地权、定价、还有利润分配的链条。一杯肯尼亚红茶好不好喝是小事，它背后这套把人锁在原地的循环，才是真该琢磨的问题。</font>
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这个圈里的每一环，单拿出来看，都讲得通：地是别人先分的，加工是别人先建的，买家是别人先坐稳的，钱是先还了利息才轮到别的。难就难在，没有哪一环是靠多使劲就能拆开的。</font>
+
+<font style="font-size:17px;letter-spacing:1px;line-height:1.8;">鲁库里里茶厂的农户，去年每公斤青叶多拿57块5，今年拿50块。他们采下的茶，绝大部分会原样装船，到别人的工厂里，换一个别人的牌子。</font>
