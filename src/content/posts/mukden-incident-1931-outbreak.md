@@ -1,6 +1,6 @@
 ---
 author: 老达子
-pubDatetime: 2026-11-21T03:09:41.888Z
+pubDatetime: 2026-11-21T03:15:34.904Z
 title: 九一八事变到底是怎么爆发的
 slug: mukden-incident-1931-outbreak
 featured: false
@@ -23,7 +23,6 @@ description: 柳条湖那声爆炸到底有多大？是谁炸的？又是谁，�
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">这是《左传》里的话，意思是想给人定罪，什么理由都找得出来。</font>
 
 <font style="font-size:17px;letter-spacing:1px;line-height:1.8;">1931年9月18日夜里十点多，沈阳北郊响起一声爆炸。日军说，是中国军队炸了铁路。一夜过去，沈阳城换了主人，不到五个月，东北三省的主要城镇全部失守。</font>
-![Uploading file...digdy]()
 
 **<font style="color:#DF2A3F;font-size:17px;letter-spacing:1px;line-height:1.8;">可这声爆炸到底有多大？是谁炸的？又是谁，让它炸得这么顺？今天老达子就来跟大家聊聊，九一八事变到底是怎么爆发的～</font>**
 
